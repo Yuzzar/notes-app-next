@@ -1,7 +1,6 @@
 # Notes App
 
-Proyek ini adalah aplikasi web untuk mengelola catatan, dibangun dengan teknologi web modern. Aplikasi ini menampilkan antarmuka pengguna yang bersih dan mudah digunakan untuk membuat, memperbarui, dan mengatur catatan, serta backend yang kuat untuk menangani penyimpanan dan pengambilan data.
-
+Proyek ini adalah aplikasi web untuk mengelola catatan
 ## Teknologi yang Digunakan
 
 ### Frontend
@@ -17,31 +16,31 @@ Proyek ini adalah aplikasi web untuk mengelola catatan, dibangun dengan teknolog
 
 ### Antarmuka Pengguna
 
-1. **Home Page**
-   ![Home Page](https://github.com/user-attachments/assets/300775c3-4162-467c-9659-5b799d93897f)
-
-2. **Buat Catatan Baru**
+1. **Buat Catatan Baru**
    ![Create New Note](https://github.com/user-attachments/assets/f6d6c2c0-ca15-4f94-a8c3-944d79451df5)
 
-3. **Tampilan Daftar Catatan**
+2. **Tampilan Daftar Catatan**
    ![Note List View](https://github.com/user-attachments/assets/c13b0e97-de3f-453d-a716-99a80202db7c)
 
-4. **Edit Catatan**
-   ![Edit Note](https://github.com/user-attachments/assets/650b51b5-5019-434d-b01d-27a42a64de97)
+3. **Detail Catatan**
+   ![Detail Note](https://github.com/user-attachments/assets/650b51b5-5019-434d-b01d-27a42a64de97)
 
-5. **Pencarian Catatan**
-   ![Search Notes](https://github.com/user-attachments/assets/ec9913f4-3f13-4da5-a58f-e3d44d54a26d)
+4. **Hapus Catatan**
+   ![Delete Note](https://github.com/user-attachments/assets/ec9913f4-3f13-4da5-a58f-e3d44d54a26d)
 
-6. **Desain Responsif**
-   ![Responsive Design](https://github.com/user-attachments/assets/5bc83f6e-d3a8-46c2-b6db-e0ad951fa534)
+5. **Edit Catatan**
+   ![Edit Note](https://github.com/user-attachments/assets/5bc83f6e-d3a8-46c2-b6db-e0ad951fa534)
 
 ### Backend
 
-7. **Contoh Respon API**
+6. **Contoh Respon API**
    ![API Response](https://github.com/user-attachments/assets/e919740b-21fa-4b7c-a4cd-3d8dae16a55a)
 
-8. **Skema Basis Data**
    ![Database Schema](https://github.com/user-attachments/assets/43fbd872-893f-44df-82e5-4ed75a55e68f)
+
+6. **gif web**
+![Uploading Desain tanpa judul.gif…]()
+
 
 ## Instalasi
 
