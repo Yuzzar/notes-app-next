@@ -1,0 +1,59 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js build output
+.next/
+out/
+
+# Build artifacts
+build/
+dist/
+.cache/
+
+# Static files cache
+.cache/
+public/static/
+
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# Test coverage output
+coverage/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+

@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "note_user",
+    "password": "1234",
+    "database": "note_dibimbing",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "note_user",
+    "password": "1234",
+    "database": "note_dibimbing",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "note_user",
+    "password": "1234",
+    "database": "note_dibimbing",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
+
