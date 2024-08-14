@@ -1,9 +1,51 @@
-![Screenshot 2024-08-14 155437](https://github.com/user-attachments/assets/300775c3-4162-467c-9659-5b799d93897f)
-![Screenshot 2024-08-14 160715](https://github.com/user-attachments/assets/f6d6c2c0-ca15-4f94-a8c3-944d79451df5)
-![Screenshot 2024-08-14 160722](https://github.com/user-attachments/assets/c13b0e97-de3f-453d-a716-99a80202db7c)
-![Screenshot 2024-08-14 160731](https://github.com/user-attachments/assets/650b51b5-5019-434d-b01d-27a42a64de97)
-![Screenshot 2024-08-14 160739](https://github.com/user-attachments/assets/ec9913f4-3f13-4da5-a58f-e3d44d54a26d)
-![Screenshot 2024-08-14 160749](https://github.com/user-attachments/assets/5bc83f6e-d3a8-46c2-b6db-e0ad951fa534)
-![Screenshot 2024-08-14 163500](https://github.com/user-attachments/assets/e919740b-21fa-4b7c-a4cd-3d8dae16a55a)
-![Screenshot 2024-08-14 163659](https://github.com/user-attachments/assets/8c0a11cb-67e7-43e0-87c0-29bb27228406)
-![Screenshot 2024-08-14 151048](https://github.com/user-attachments/assets/0a85b7a2-0b67-4473-b03b-2ee2d844ff37)
+# Notes App
+
+Proyek ini adalah aplikasi web untuk mengelola catatan, dibangun dengan teknologi web modern. Aplikasi ini menampilkan antarmuka pengguna yang bersih dan mudah digunakan untuk membuat, memperbarui, dan mengatur catatan, serta backend yang kuat untuk menangani penyimpanan dan pengambilan data.
+
+## Teknologi yang Digunakan
+
+### Frontend
+1. **Next.js**: Digunakan sebagai framework React untuk pengembangan aplikasi web. Next.js menyediakan fitur seperti rendering sisi server (SSR) dan pembuatan situs statis (SSG) yang membantu dalam meningkatkan kinerja dan SEO.
+2. **JavaScript**: Bahasa pemrograman utama yang digunakan untuk membangun logika aplikasi dan interaksi dengan pengguna.
+3. **Chakra-UI**: Sebagai pustaka komponen UI yang digunakan untuk membangun antarmuka pengguna yang responsif dan dapat diakses dengan cepat dan mudah.
+
+### Backend
+1. **PostgreSQL**: Basis data relasional yang digunakan untuk menyimpan catatan dan data pengguna. PostgreSQL dipilih karena skalabilitas dan dukungannya yang kuat terhadap berbagai fitur SQL.
+2. **GraphQL**: Digunakan untuk membuat API yang efisien dan fleksibel, memungkinkan frontend untuk meminta hanya data yang diperlukan. GraphQL memberikan keuntungan dalam hal pengelolaan data yang kompleks dan komunikasi antara frontend dan backend.
+
+## Screenshots
+
+### Antarmuka Pengguna
+
+1. **Home Page**
+   ![Home Page](https://github.com/user-attachments/assets/300775c3-4162-467c-9659-5b799d93897f)
+
+2. **Buat Catatan Baru**
+   ![Create New Note](https://github.com/user-attachments/assets/f6d6c2c0-ca15-4f94-a8c3-944d79451df5)
+
+3. **Tampilan Daftar Catatan**
+   ![Note List View](https://github.com/user-attachments/assets/c13b0e97-de3f-453d-a716-99a80202db7c)
+
+4. **Edit Catatan**
+   ![Edit Note](https://github.com/user-attachments/assets/650b51b5-5019-434d-b01d-27a42a64de97)
+
+5. **Pencarian Catatan**
+   ![Search Notes](https://github.com/user-attachments/assets/ec9913f4-3f13-4da5-a58f-e3d44d54a26d)
+
+6. **Desain Responsif**
+   ![Responsive Design](https://github.com/user-attachments/assets/5bc83f6e-d3a8-46c2-b6db-e0ad951fa534)
+
+### Backend
+
+7. **Contoh Respon API**
+   ![API Response](https://github.com/user-attachments/assets/e919740b-21fa-4b7c-a4cd-3d8dae16a55a)
+
+8. **Skema Basis Data**
+   ![Database Schema](https://github.com/user-attachments/assets/43fbd872-893f-44df-82e5-4ed75a55e68f)
+
+## Instalasi
+
+1. **Clone Repository**
+   ```bash
+   git clone https://github.com/Yuzzar/notes-app-next.git
+   cd notes-app-next
