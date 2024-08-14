@@ -39,8 +39,7 @@ Proyek ini adalah aplikasi web untuk mengelola catatan
    ![Database Schema](https://github.com/user-attachments/assets/43fbd872-893f-44df-82e5-4ed75a55e68f)
 
 6. **gif web**
-![Uploading Desain tanpa judul.gif…]()
-
+![Desain tanpa judul](https://github.com/user-attachments/assets/07b6378a-9c23-4741-97fd-1971c8ebcfde)
 
 ## Instalasi
 
